@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-mvc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="FirstWeb" target="19" />
+      <module name="FirsWeb" target="1.7" />
+      <module name="mvc-thymeleaf-jpa-crud-app" target="16" />
+      <module name="MvcCRUD" target="17" />
+      <module name="Spring_2_3_1_v2" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
